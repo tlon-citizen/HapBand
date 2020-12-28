@@ -12,7 +12,7 @@ The fingertip wearable is mechanically connected by electromagnetic solenoids. T
 The piezo element touches the fingertip whenever the top solenoid is closed.
 
 <p align="center"><img src="Media/device.png" width="50%"></p>
-<p align="center"><img src="Media/modules.png" width="50%"></p>
+<p align="center"><img src="Media/Modules.png" width="50%"></p>
 
 This repository contains the necessary files to build a new device; model files for 3D printing, schematics for electronics, and embedded/testing code.
 
